@@ -10,3 +10,5 @@ func main() {
 	fmt.Println(student)
 	fmt.Println(students)
 }
+
+// this will give index out of range error
